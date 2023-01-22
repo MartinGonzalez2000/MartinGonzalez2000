@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33DDFF&size=35&center=true&vCenter=true&width=1000&lines=HOLA,Bienvenido!+:%29)](https://git.io/typing-svg)
 
-<img align="right" width=135 src="./programer.gif">
+<img align="right" width=170 src="./programer.gif">
 
 
 
